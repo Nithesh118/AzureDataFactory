@@ -1,0 +1,6 @@
+{
+	"name": "nithSelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

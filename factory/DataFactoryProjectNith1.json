@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryProjectNith1",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efa1f4f6-ded7-46f6-89df-cf72c35ac07d",
+		"tenantId": "0229b1ab-c51b-4092-a8bc-85b46c52631a"
+	}
+}
