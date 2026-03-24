@@ -1,0 +1,9 @@
+{
+	"name": "projectnith-adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d741e78b-bbe9-44b5-bae2-e020761dd1ef",
+		"tenantId": "0229b1ab-c51b-4092-a8bc-85b46c52631a"
+	}
+}
