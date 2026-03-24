@@ -1,0 +1,21 @@
+{
+	"name": "AzureDatabricks2",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-7405613589067971.11.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/51800e0f-7d78-4137-91e7-2a8744edd3ba/resourceGroups/rg-modern-databricks/providers/Microsoft.Databricks/workspaces/MyWorkspace",
+			"newClusterNodeType": "Standard_D4s_v3",
+			"newClusterNumOfWorker": "4",
+			"newClusterSparkEnvVars": {
+				"PYSPARK_PYTHON": "/databricks/python3/bin/python3"
+			},
+			"newClusterVersion": "17.3 LTS (includes Apache Spark 4.0.0, Scala 2.13)",
+			"clusterOption": "Fixed",
+			"newClusterInitScripts": [],
+			"dataSecurityMode": "USER_ISOLATION"
+		}
+	}
+}
